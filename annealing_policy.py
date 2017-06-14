@@ -1,3 +1,5 @@
+import numpy as np
+
 class AnnealingPolicy:
     """
     method = 'fixed', 'step', 'exp', 'inv', 'poly', 'sigmoid'
